@@ -1,0 +1,16 @@
+.comment{
+    background-color: #ffeee097;
+    padding: 5px 100px 5px 20px;
+    height: 28px;
+    width: 89%;
+    border-style: none;
+    border: none;
+    border-radius: 16px;
+    font-size: 15px;
+    color: #201813;
+    text-align: left;
+}
+
+.comment-app{
+    word-wrap:break-word;
+}
